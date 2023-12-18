@@ -1,12 +1,26 @@
-## Hi there 👋
+# Hello! Welcome to fURL :D
 
-<!--
+## Who? ⤵️
 
-**Here are some ideas to get you started:**
+> I'm the Bearodactyl! I'm the one who made and maintains this site!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What? ⤵️
+
+> fURL is a social media network that acts as a safe spacee 
+> for furries, therians, otherkin, and everything inbetween!
+
+## When? ⤵️
+
+> OwO
+
+## Where? ⤵️
+
+> Made in Texas ©️ *
+
+## Why? ⤵️
+
+> I told someone on TikTok I'd do it as a half joke, but at some
+> point, I actually commited to the task, and now here we are with
+> a logo and everything. 🤷
+
+* not actually copyrighted
